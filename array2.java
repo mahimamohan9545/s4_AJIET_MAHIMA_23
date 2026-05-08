@@ -1,4 +1,4 @@
-public class LargestElement {
+public class SmallestElement {
     public static void main(String[] args) {
         int[] a = {10, 45, 7, 89, 24};
 
